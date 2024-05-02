@@ -1,8 +1,6 @@
 public class TiposVariaveis2 {
     public static void main(String[] args) {
         System.out.println("Aqui");
-<<<<<<<<< Temporary merge branch 1
-=========
         double salarioMinimo = 2500.33;
         System.out.println(salarioMinimo);
         short numeroCurto = 1;
@@ -14,6 +12,5 @@ public class TiposVariaveis2 {
         System.out.println(numero);
         final double VALOR_DE_PI = 3.1415;
         System.out.println(VALOR_DE_PI);
->>>>>>>>> Temporary merge branch 2
     }
 }
